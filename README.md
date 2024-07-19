@@ -13,8 +13,6 @@ Esta é uma API de Gestão de Vagas desenvolvida com Java Spring Boot. A API per
 
   3.Candidatura a vagas.
 
-## Empresa
-
 - Empresa
 
   1.Cadastro de empresas
